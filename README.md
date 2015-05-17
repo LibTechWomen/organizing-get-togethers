@@ -1,6 +1,9 @@
 # Organizing #libtechwomen get-togethers at conferences
 So you want to organize a #libtechwomen get-together? Here is your guide.
-Feel free to fork and submit a pull request if you have any changes to the document below. If you need help with forking or pull requests, go to ***.
+Feel free to fork and submit a pull request if you have any changes to the document below. If you need help with forking or pull requests, go to https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project.
+
+## Disclaimer
+This is a living document. There will be omissions or the document might not directly address your current situation. Things will go wrong - the venue for the get-together closes unexpectedly before you meet, the conference does not have a central way to advertise after conference hour gatherings, etc. The document is a guideline that should be flexible enough to fit most situations; nonetheless, be prepared to do some improvising and on-the-fly decision making when you plan a get-together. 
 
 ## Why
 Lib* conferences, for many, are the only time where they can meet others outside of their workplace or work region, given the limited amount of budgets that many have for professional development and travel. Many folks might have heard about #libtechwomen online or colleagues, but many have not. #libtechwomen get-togethers provide an opportunity to introduce these folks to the #libtechwomen community. 
@@ -30,7 +33,44 @@ The conference venue itself might have a space for the get-together; in that cas
 Once you know that you are going to a conference and you are interested in doing a get-together, find others that are going to the same conference to see if they would be interested in helping with planning the event: email the #libtechwomen Google Group, tweet out with the conference and #libtechwomen hashtags, or reach out to #libtechwomen friends that you know who are going to the same conference. Ideally, this should be done as soon as you register or are 100% sure you are going to the conference.
 
 A general timeline of planning for those who need a little help with "what should happen when:"
+- One month before conference: 
+  - Wrangle co-planners
+  - Start talking about when in the conference schedule a get-together can happen
+  - If you wish to use a conference room, contact the conference organizers at this time to see if this is a possibility
+- Two weeks before the conference:
+  - Nail down date
+  - Decide on venue and contact venue for reservations
+  - Work out logistics of group traveling to external venue
+  - Send out email to conference attendees and/or publicly announce get-together at conference, including the #libtechwomen online places
+- A couple days before the conference:
+  - Send out reminders to conference attendees and #libtechwomen group
+  - Confirm reservations with venue
+  - Answer questions from interested attendees
+- At the conference:
+  - Execute carefully crafted logistics plan
+  - Answer questions from interested attendees (quickly!)
+  - Have fun!
 
-### Communication
+### Announcing the get-together
+Communication can make or break your get-together. Emailing the #libtechwomen Google Group and emailing a conference attendee list will require two different emails due to the different audiences.
+
+Communications to both groups need to have at minimum:
+- Location
+- Time and date
+- Gathering point to walk to external venue AND who to look for at said gathering point (if applicable)
+
+Communications to conference attendees need to have the additional information:
+- A short blurb about #libtechwomen
+  - I have used the following blurb in my communications to conference attendees: 
+   What is #libtechwomen? From our website at http://libtechwomen.org/about.html: "#libtechwomen is a supportive space for women and their friends to network, develop skills, build confidence, and lead positive change. Whether you're an experienced or aspiring technologist, whether technology is a hobby or part of your job, you belong here."
+- Who all is welcome
+  - If you use the blurb above, the who part is already taken care of - "women and their friends..." Anyone is welcome to join the get-together if they want to help further the #libtechwomen mission and support their colleagues.
 
 ### Herding Cats
+Some logistics for the get-together to consider before you get to the conference:
+
+#### RSVPs
+This is dependent on your specific situation. Some get-togethers ask for RSVPs or emails of interest to get a head count, while others leave the head count as an estimate based on previous get-togethers at the conference. Each approach has its benefits and drawbacks: RSVPs require more upfront work but more accurate numbers, while estimating requires less hands-on work with planning, but might leave you with too many or too few people for the venue. If you decide to do RSVPs, make sure to communicate who to send the RSVP to in any communications to the public, as well as having instructions for folks who decide to come last minute but might of missed the RSVP period.
+
+#### Gathering the cats
+Hotel lobbies seem to be the natural place to gather folks together to walk to the get-together venue. If you choose to have the lobby or the registration area as your gathering place, be prepared to battle it out with other groups who are using the same area for the same purpose for their own events. Have a #libtechwomen sign or some other distinguishable visible sign or thing to set you apart from the crowd. Anything that is not a direct #libtechwomen sign needs to be communicated to conference attendees before the get-together.
