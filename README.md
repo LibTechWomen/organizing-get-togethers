@@ -2,8 +2,13 @@
 So you want to organize a #libtechwomen get-together? Here is your guide.
 Feel free to fork and submit a pull request if you have any changes to the document below. If you need help with forking or pull requests, go to https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project.
 
-Table of Contents
+**Table of Contents**
+
 [Disclaimer](#disclaimer)
+[Why](#why)
+[When](#when)
+[Where](#where)
+[How](#how)
 
 ## Disclaimer
 This is a living document. There will be omissions or the document might not directly address your current situation. Things will go wrong - the venue for the get-together closes unexpectedly before you meet, the conference does not have a central way to advertise after conference hour gatherings, etc. The document is a guideline that should be flexible enough to fit most situations; nonetheless, be prepared to do some improvising and on-the-fly decision making when you plan a get-together. 
