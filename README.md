@@ -4,11 +4,14 @@ Feel free to fork and submit a pull request if you have any changes to the docum
 
 **Table of Contents**
 
-[Disclaimer](#disclaimer)
-[Why](#why)
-[When](#when)
-[Where](#where)
-[How](#how)
+- [Disclaimer](#disclaimer)
+- [Why](#why)
+- [When](#when)
+- [Where](#where)
+- [How](#how)
+  - [Timeline](#timeline)
+  - [Announcing the get-together](#announcing-the-get-together)
+  - [Herding Cats](#herding-cats)
 
 ## Disclaimer
 This is a living document. There will be omissions or the document might not directly address your current situation. Things will go wrong - the venue for the get-together closes unexpectedly before you meet, the conference does not have a central way to advertise after conference hour gatherings, etc. The document is a guideline that should be flexible enough to fit most situations; nonetheless, be prepared to do some improvising and on-the-fly decision making when you plan a get-together. 
